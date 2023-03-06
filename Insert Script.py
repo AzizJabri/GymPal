@@ -1,6 +1,6 @@
 import mysql.connector
 
-with open('bd1.txt', 'r') as f:
+with open('Excercises.txt', 'r') as f:
     exercise_names = f.read().splitlines()
 
 
