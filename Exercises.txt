@@ -1,0 +1,441 @@
+Jumping rope|cardio
+Stair climber|cardio
+Bicycling|cardio
+Rower|cardio
+Elliptical trainer|cardio
+Stairmaster|cardio
+Burpee|cardio
+Trail Running/Walking|cardio
+Trail Running/Walking|cardio
+Skating|cardio
+Treadmill running|cardio
+Jog In Place|cardio
+Stationary bike|cardio
+Treadmill jogging|cardio
+Butt Kicks|cardio
+Recumbent Bike|cardio
+Treadmill walking|cardio
+Walking High Knees|cardio
+Sled push-|cardio
+Lateral Speed Step|cardio
+Fast Kick With Arm Circles|cardio
+Defensive Slide|cardio
+Vertical Mountain Climber|cardio
+Football Up-Down|cardio
+Shadow boxing|cardio
+Slow Jog|cardio
+High knees|cardio
+Bear crawl fire feet|cardio
+Jumping Jack|cardio
+Double Under|cardio
+Plate push|cardio
+Shuttle run|cardio
+Swimming|cardio
+FYR Sprinter Burpee|cardio
+Agility Ladder|cardio
+HM Running in Place|cardio
+HM Running Lunge|cardio
+HM Running Man Crunch|cardio
+Clean from Blocks|olympic_weightlifting
+Clean Deadlift|olympic_weightlifting
+Clean and jerk|olympic_weightlifting
+Push-press|olympic_weightlifting
+Power snatch-|olympic_weightlifting
+Hang Clean|olympic_weightlifting
+Romanian Deadlift from Deficit|olympic_weightlifting
+Power Snatch|olympic_weightlifting
+Power Clean from Blocks|olympic_weightlifting
+Olympic Squat|olympic_weightlifting
+Snatch Deadlift|olympic_weightlifting
+Hang Snatch|olympic_weightlifting
+Hang Snatch|olympic_weightlifting
+Wide Stance Stiff Legs|olympic_weightlifting
+Hang Clean - Below the Knees|olympic_weightlifting
+Clean|olympic_weightlifting
+Split Jerk|olympic_weightlifting
+Push-jerk|olympic_weightlifting
+Jerk Dip Squat|olympic_weightlifting
+Overhead squat|olympic_weightlifting
+Frankenstein Squat|olympic_weightlifting
+Kneeling Jump Squat|olympic_weightlifting
+Clean Pull|olympic_weightlifting
+Clean Shrug|olympic_weightlifting
+Behind-the-head push-press|olympic_weightlifting
+Snatch Shrug|olympic_weightlifting
+Rack Delivery|olympic_weightlifting
+Split Clean|olympic_weightlifting
+Snatch from Blocks|olympic_weightlifting
+Tall Muscle Snatch|olympic_weightlifting
+Power Snatch from Blocks|olympic_weightlifting
+Jerk Balance|olympic_weightlifting
+Muscle Snatch|olympic_weightlifting
+Heaving Snatch Balance|olympic_weightlifting
+Snatch Balance|olympic_weightlifting
+Split Snatch|olympic_weightlifting
+Hang Snatch - Below Knees|olympic_weightlifting
+Single Leg Push-off|plyometrics
+Side-to-side box skip|plyometrics
+Mountain climber|plyometrics
+Drop Push|plyometrics
+Double Leg Butt Kick|plyometrics
+Broad jump|plyometrics
+Sledgehammer swing|plyometrics
+Box jump|plyometrics
+Scissors Jump|plyometrics
+Jumping jack-|plyometrics
+Dumbbell seated box jump|plyometrics
+Linear Acceleration Wall Drill|plyometrics
+Incline Push-Up Depth Jump|plyometrics
+Chest Push (multiple response)|plyometrics
+Supine Chest Throw|plyometrics
+Alien Squat|plyometrics
+Box Jump (Multiple Response)|plyometrics
+Knee Tuck Jump|plyometrics
+Wall ball toss|plyometrics
+Rocket Jump|plyometrics
+Depth jump box jump|plyometrics
+Medicine ball slam|plyometrics
+Single Leg Butt Kick|plyometrics
+Jump Squat|plyometrics
+Over bench jump|plyometrics
+Split Jump|plyometrics
+Plyo push-up|plyometrics
+Vertical Swing|plyometrics
+Lateral hop|plyometrics
+Moving Claw Series|plyometrics
+Front Cone Hops (or hurdle hops)|plyometrics
+Isometric Chest Squeezes|plyometrics
+Bench skip|plyometrics
+90-degree jump squat|plyometrics
+Alternate Leg Diagonal Bound|plyometrics
+Backward Medicine Ball Throw|plyometrics
+Medicine Ball Chest Pass|plyometrics
+Catch and Overhead Throw|plyometrics
+Skip|plyometrics
+Kneeling Arm Drill|plyometrics
+Medicine ball scoop throw|plyometrics
+Burpee over barbell|plyometrics
+Single-Leg Box Jump|plyometrics
+Single-Leg Box Jump|plyometrics
+Single-Leg Box Jump|plyometrics
+Southpaw sprawl|plyometrics
+Single-Leg Hop Progression|plyometrics
+Burpee to pull-up|plyometrics
+Return Push from Stance|plyometrics
+Stride Jump Crossover|plyometrics
+Feet Jack|plyometrics
+Carioca quick step|plyometrics
+Single-cone sprint drill|plyometrics
+Heavy Bag Thrust|plyometrics
+Single-Leg Stride Jump|plyometrics
+Side Standing Long Jump|plyometrics
+Dumbbell lateral hop to sprint|plyometrics
+Slide Jump Shot|plyometrics
+Sprawl frog kick|plyometrics
+Trap Bar Jump|plyometrics
+Side Hop-Sprint|plyometrics
+Decline Explosive Push-Up|plyometrics
+Single-Leg Lateral Hop|plyometrics
+Pop squat|plyometrics
+Box Skip|plyometrics
+Superman Push-Up|plyometrics
+Star Jump|plyometrics
+Sit-up with single-arm overhand throw|plyometrics
+Medicine ball partner twist|plyometrics
+Dumbbell lateral hop|plyometrics
+Hurdle Hops|plyometrics
+Lateral cone hop|plyometrics
+Wall mountain climber|plyometrics
+Burpee Box-Jumps|plyometrics
+Quick Leap|plyometrics
+Clapping Push-Up|plyometrics
+Standing Two-Arm Overhead Throw|plyometrics
+Reverse Burpee|plyometrics
+Linear 3-Part Start Technique|plyometrics
+Chest Push (single response)|plyometrics
+Jump lunge heel kick|plyometrics
+Burpee box jump|plyometrics
+Chest Push with Run Release|plyometrics
+Linear Depth Jump|plyometrics
+Lateral box jump|plyometrics
+Kettlebell fire feet|plyometrics
+Chest Push from 3 point stance|plyometrics
+Square Hop|plyometrics
+Running lunge|plyometrics
+Dumbbell jump squat|plyometrics
+Wall sprawl|plyometrics
+Medicine ball ninja|plyometrics
+In-out jump squat|plyometrics
+Dumbbell jump squat|plyometrics
+Wall sprawl|plyometrics
+Medicine ball ninja|plyometrics
+In-out jump squat|plyometrics
+Gorilla squat|plyometrics
+Burpee tuck jump|plyometrics
+Speed skater|plyometrics
+Barbell glute bridge|powerlifting
+Barbell deficit deadlift|powerlifting
+Barbell back squat to box|powerlifting
+Sumo deadlift|powerlifting
+Reverse Band Box Squat|powerlifting
+Dumbbell floor press|powerlifting
+Barbell Hip Thrust|powerlifting
+Box Squat with Bands|powerlifting
+Squat with Chains|powerlifting
+Deadlift with Bands|powerlifting
+Deadlift with Bands|powerlifting
+Bench Press - Powerlifting|powerlifting
+Deadlift with Chains|powerlifting
+Kneeling Squat|powerlifting
+Rack Pull with Bands|powerlifting
+Good Morning|powerlifting
+Glute Ham Raise|powerlifting
+Band Good Morning (Pull Through)|powerlifting
+Chain Handle Extension|powerlifting
+Bench Press with Chains|powerlifting
+Floor Press|powerlifting
+Rack pull|powerlifting
+Seated Good Mornings|powerlifting
+Band Good Morning|powerlifting
+Sumo Deadlift with Chains|powerlifting
+Board bench press|powerlifting
+Pin Presses|powerlifting
+Hip Lift with Band|powerlifting
+Chain Press|powerlifting
+Sumo Deadlift with Bands|powerlifting
+Sumo Deadlift with Bands|powerlifting
+Sumo Deadlift with Bands|powerlifting
+Reverse Band Deadlift|powerlifting
+Good Morning off Pins|powerlifting
+Bench Press With Short Bands|powerlifting
+Floor Press with Chains|powerlifting
+Hanging Bar Good Morning|powerlifting
+Reverse Band Sumo Deadlift|powerlifting
+Squat with Bands|powerlifting
+Reverse Band Bench Press|powerlifting
+Reverse Band Bench Press|powerlifting
+Reverse Band Power Squat|powerlifting
+Speed Box Squat|powerlifting
+Single-Leg Press|strength
+Landmine twist|strength
+Weighted pull-up|strength
+T-Bar Row with Handle|strength
+Palms-down wrist curl over bench|strength
+Dumbbell front raise to lateral raise|strength
+Incline Hammer Curls|strength
+Straight-bar wrist roll-up|strength
+Clean and press|strength
+Triceps dip|strength
+Palms-up wrist curl over bench|strength
+Barbell Full Squat|strength
+Barbell Deadlift|strength
+Single-arm palm-in dumbbell shoulder press|strength
+Romanian Deadlift With Dumbbells|strength
+Elbow plank|strength
+Bottoms Up|strength
+Single-arm kettlebell push-press|strength
+Suspended ab fall-out|strength
+Military press|strength
+Dumbbell V-Sit Cross Jab|strength
+Standing palms-in shoulder press|strength
+Standing cable low-to-high twist|strength
+Decline EZ-bar skullcrusher|strength
+Standing behind-the-back wrist curl|strength
+Seated finger curl|strength
+Wide-grip barbell curl|strength
+Dumbbell spell caster|strength
+Lying Face Down Plate Neck Resistance|strength
+Pullups|strength
+Decline reverse crunch|strength
+Dumbbell Bench Press|strength
+Seated barbell shoulder press|strength
+EZ-bar spider curl|strength
+Smith machine shrug|strength
+Smith Machine Calf Raise|strength
+Pushups|strength
+Barbell walking lunge|strength
+Front Squats With Two Kettlebells|strength
+Spider crawl|strength
+Reverse-grip bent-over row|strength
+Seated Two-Arm Palms-Up Low-Pulley Wrist Curl|strength
+Back extension|strength
+Close-grip bench press|strength
+Cocoons|strength
+Cross-Body Crunch|strength
+Dumbbell Flyes|strength
+Hammer Curls|strength
+Incline dumbbell bench press|strength
+Low-cable cross-over|strength
+Single-arm high-cable side bend|strength
+Seated Dumbbell Press|strength
+Standing dumbbell shoulder press|strength
+EZ-Bar Curl|strength
+Natural Glute Ham Raise|strength
+Zottman Curl|strength
+Glute ham raise-|strength
+Single-arm lateral raise|strength
+Power Partials|strength
+Leverage Shrug|strength
+Cable V-bar push-down|strength
+Wrist Roller|strength
+Incline dumbbell reverse fly|strength
+Elbow-to-knee crunch|strength
+Kettlebell Pistol Squat|strength
+Overhead dumbbell front raise|strength
+Biceps curl to shoulder press|strength
+Weighted bench dip|strength
+Forward lunge|strength
+Barbell Bench Press - Medium Grip|strength
+Chest dip|strength
+Seated dumbbell shoulder press|strength
+Barbell Curl|strength
+EZ-Bar Skullcrusher|strength
+One-Arm Dumbbell Row|strength
+Alternating standing shoulder press|strength
+Concentration curl|strength
+Decline Crunch|strength
+Decline Dumbbell Flyes|strength
+Single-arm incline rear delt raise|strength
+Alternating dumbbell front raise|strength
+Hanging toes-to-bar|strength
+Narrow-stance squat|strength
+Kneeling cable oblique crunch|strength
+Reverse Grip Triceps Pushdown|strength
+Rocky Pull-Ups/Pulldowns|strength
+Snatch-Grip Behind-The-Neck Overhead Press|strength
+Flexor Incline Dumbbell Curls|strength
+Seated One-Arm Dumbbell Palms-Up Wrist Curl|strength
+Thigh adductor|strength
+Machine Bicep Curl|strength
+Seated Palms-Down Barbell Wrist Curl|strength
+Car driver|strength
+Alternating Deltoid Raise|strength
+Hanging Oblique Knee Raise|strength
+Bodyweight Flyes|strength
+Standing Calf Raises|strength
+Push-Ups - Close Triceps Position|strength
+One-Arm Long Bar Row|strength
+Overhead cable curl|strength
+Hip Circles (Prone)|stretching
+Standing Hip Circles|stretching
+Groiners|stretching
+Stomach Vacuum|stretching
+Side Wrist Pull|stretching
+Standing leg swing|stretching
+Superman|stretching
+Iliotibial band SMR|stretching
+Windmills|stretching
+Leg-Up Hamstring Stretch|stretching
+Side Leg Raises|stretching
+Inchworm|stretching
+Ankle Circles|stretching
+Standing Biceps Stretch|stretching
+Groin and Back Stretch|stretching
+Scissor Kick|stretching
+Toe Touchers|stretching
+Upward Stretch|stretching
+Standing Toe Touches|stretching
+Shoulder Circles|stretching
+Lying groin stretch with band|stretching
+Standing Hamstring and Calf Stretch|stretching
+Piriformis SMR|stretching
+Lower Back Curl|stretching
+Peroneals-SMR|stretching
+Lying Hamstring|stretching
+Knee Circles|stretching
+Intermediate Hip Flexor and Quad Stretch|stretching
+Sit Squats|stretching
+Calf SMR|stretching
+Lying hamstring stretch with band|stretching
+Cross-body shoulder stretch|stretching
+One Arm Against Wall|stretching
+Dynamic chest stretch|stretching
+Rhomboids SMR|stretching
+Standing Gastrocnemius Calf Stretch|stretching
+Hamstring-SMR|stretching
+Tricep Side Stretch|stretching
+Kneeling hip flexor stretch|stretching
+Hug A Ball|stretching
+Quadriceps SMR|stretching
+Upper Back-Leg Grab|stretching
+Dancer's Stretch|stretching
+Elbow Circles|stretching
+Wall calf stretch|stretching
+Spinal Stretch|stretching
+Anterior Tibialis-SMR|stretching
+Child's pose|stretching
+Seated Hamstring|stretching
+Bar shoulder extension stretch|stretching
+Kneeling Forearm Stretch|stretching
+Iron Crosses (stretch)|stretching
+Seated Floor Hamstring Stretch|stretching
+Arm circle|stretching
+Pelvic Tilt Into Bridge|stretching
+Seated Biceps|stretching
+90/90 Hamstring|stretching
+All Fours Quad Stretch|stretching
+Exercise ball torso rotation|stretching
+Lying quad stretch with band|stretching
+Cat Stretch|stretching
+Calf Stretch Elbows Against Wall|stretching
+Behind Head Chest Stretch|stretching
+Lying glute stretch|stretching
+Triceps Stretch|stretching
+Side Neck Stretch|stretching
+Elbows Back|stretching
+Dynamic Back Stretch|stretching
+One Half Locust|stretching
+Latissimus dorsi SMR|stretching
+Seated Overhead Stretch|stretching
+Seated Front Deltoid|stretching
+Lower back SMR|stretching
+Hug Knees To Chest|stretching
+World's greatest stretch|stretching
+Standing Hip Flexors|stretching
+The Straddle|stretching
+Looking At Ceiling|stretching
+Standing Soleus And Achilles Stretch|stretching
+Upper Back Stretch|stretching
+Alternating lunge jump|stretching
+Chair Upper Body Stretch|stretching
+Seated Calf Stretch|stretching
+Shoulder Raise|stretching
+Adductor SMR|stretching
+Crossover Reverse Lunge|stretching
+Overhead Stretch|stretching
+Frog Hops|stretching
+Side Lying Groin Stretch|stretching
+Chin To Chest Stretch|stretching
+Middle Back Stretch|stretching
+Runner's Stretch|stretching
+One Handed Hang|stretching
+Exercise ball chest stretch|stretching
+Adductor/Groin|stretching
+Knee Across The Body|stretching
+Rear Leg Raises|stretching
+Overhead Triceps|stretching
+Peroneals Stretch|stretching
+On Your Side Quad Stretch|stretching
+Rickshaw Carry|strongman
+Atlas Stones|strongman
+Dumbbell farmer's walk|strongman
+Tire flip|strongman
+Axle Deadlift|strongman
+Bear crawl sled drag|strongman
+Yoke Walk|strongman
+Circus Bell|strongman
+Backward Drag|strongman
+Sled Push|strongman
+Atlas Stone Trainer|strongman
+Crucifix|strongman
+Forward Drag with Press|strongman
+Sled Drag - Harness|strongman
+Conan's Wheel|strongman
+Rickshaw Deadlift|strongman
+Log Lift|strongman
+Power Stairs|strongman
+Axle Clean And Press|strongman
+Sandbag Load|strongman
+Keg Load|strongman
+Car Deadlift|strongman
+Car Deadlift|strongman
