@@ -1,0 +1,12 @@
+<div class="p-3">
+    <div class="flex items-center mb-4">
+        <h1 class="text-left text-white mr-4">Pending Coaches</h1>
+        <input class="flex-grow px-4 py-2 bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500"
+          type="text" placeholder="Filter by name" [(ngModel)]="filterText">
+    </div>
+      
+    <div class="flex flex-col">
+        <app-coach-approve-item *ngFor="let coach of service.getPendingCoaches() | filter:filterText" [coach]="coach"></app-coach-approve-item>
+        <div *ngIf="service.getPendingCoaches().length == 0">You don't have any Coach Pending!</div>
+    </div>
+</div>
